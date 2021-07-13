@@ -1,0 +1,22 @@
+{
+  "name": "@man-app-cli/core",
+  "version": "1.0.0",
+  "description": "man-app-cli core",
+  "author": "man.wang <man.wang@symbio.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@man-cli-dev/utils": "1.0.0"
+  }
+}
