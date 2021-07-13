@@ -1,6 +1,6 @@
 {
   "name": "@man-app-cli/utils",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "man-app-cli utils",
   "author": "man.wang <man.wang@symbio.com>",
   "homepage": "",
@@ -16,7 +16,6 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "dependencies": {},
   "publishConfig": {
     "access": "public"
   }
