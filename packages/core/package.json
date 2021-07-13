@@ -1,6 +1,6 @@
 {
   "name": "@man-app-cli/core",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "man-app-cli core",
   "author": "man.wang <man.wang@symbio.com>",
   "homepage": "",
@@ -18,5 +18,9 @@
   },
   "dependencies": {
     "@man-cli-dev/utils": "1.0.0"
+  },
+  "gitHead": "cbf028abc08553c01a77460fd89f38258ed894a5",
+  "publishConfig": {
+    "access": "public"
   }
 }
